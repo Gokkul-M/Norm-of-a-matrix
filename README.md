@@ -51,6 +51,6 @@ print(Norm_of_matrix)
 ### 2-Norm of a Matrix
 ![image](https://github.com/Gokkul-M/Norm-of-a-matrix/assets/144870543/866c83ad-fb38-458c-8392-b44b58d7e351)
 ### Infinity Norm of a Matrix
-![Uploading image.png…]()
+![image](https://github.com/Gokkul-M/Norm-of-a-matrix/assets/144870543/0683e26e-b63f-4d40-98e4-cf22084f6177)
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
